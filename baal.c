@@ -3,7 +3,7 @@
 #include <shlobj.h>
 #include <string.h>
 
-#include <C:\Users\student\Desktop\mw\sender.h>
+#include "sender.h"
 
 char Filename[0x104];
 char UserName[0x104];
